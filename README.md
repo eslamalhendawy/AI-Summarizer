@@ -1,6 +1,6 @@
-# React + Vite
+# AI Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An article summarizer made using React, Tailwind, Redux and the Article Extractor and Summarizer API.
 
 Currently, two official plugins are available:
 
